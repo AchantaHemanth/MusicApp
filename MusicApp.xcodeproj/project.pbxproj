@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AAD46ABA21D4C9C2003D751D /* Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAD46AB921D4C9C2003D751D /* Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg */; };
 		AAD6EE7621D2082400E037EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD6EE7521D2082400E037EE /* AppDelegate.swift */; };
 		AAD6EE7821D2082400E037EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD6EE7721D2082400E037EE /* ViewController.swift */; };
 		AAD6EE7B21D2082400E037EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE7921D2082400E037EE /* Main.storyboard */; };
 		AAD6EE7D21D2082600E037EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE7C21D2082600E037EE /* Assets.xcassets */; };
 		AAD6EE8021D2082600E037EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE7E21D2082600E037EE /* LaunchScreen.storyboard */; };
+		AAD6EE8D21D20D4500E037EE /* Reddy Ikkada Soodu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8721D20D4300E037EE /* Reddy Ikkada Soodu.mp3 */; };
+		AAD6EE8E21D20D4500E037EE /* Yeda Poyinado.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8821D20D4400E037EE /* Yeda Poyinado.mp3 */; };
+		AAD6EE8F21D20D4500E037EE /* Reddamma Thalli (Female).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8921D20D4400E037EE /* Reddamma Thalli (Female).mp3 */; };
+		AAD6EE9021D20D4500E037EE /* Anaganaganaga.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8A21D20D4400E037EE /* Anaganaganaga.mp3 */; };
+		AAD6EE9121D20D4500E037EE /* Peniviti.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8B21D20D4500E037EE /* Peniviti.mp3 */; };
+		AAD6EE9221D20D4500E037EE /* Reddamma Thalli.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE8C21D20D4500E037EE /* Reddamma Thalli.mp3 */; };
+		AAD6EE9521D20FD200E037EE /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAD6EE9421D20FD200E037EE /* AVFoundation.framework */; };
+		AAD6EE9C21D233DF00E037EE /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE9721D233DF00E037EE /* play.png */; };
+		AAD6EE9D21D233DF00E037EE /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE9821D233DF00E037EE /* next.png */; };
+		AAD6EE9E21D233DF00E037EE /* previous.png in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE9921D233DF00E037EE /* previous.png */; };
+		AAD6EE9F21D233DF00E037EE /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EE9A21D233DF00E037EE /* stop.png */; };
+		AAD6EEB021D2421700E037EE /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = AAD6EEAF21D2421700E037EE /* pause.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AAD46AB921D4C9C2003D751D /* Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg"; sourceTree = "<group>"; };
 		AAD6EE7221D2082400E037EE /* MusicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD6EE7521D2082400E037EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AAD6EE7721D2082400E037EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +36,18 @@
 		AAD6EE7C21D2082600E037EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAD6EE7F21D2082600E037EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAD6EE8121D2082600E037EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAD6EE8721D20D4300E037EE /* Reddy Ikkada Soodu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Reddy Ikkada Soodu.mp3"; sourceTree = "<group>"; };
+		AAD6EE8821D20D4400E037EE /* Yeda Poyinado.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yeda Poyinado.mp3"; sourceTree = "<group>"; };
+		AAD6EE8921D20D4400E037EE /* Reddamma Thalli (Female).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Reddamma Thalli (Female).mp3"; sourceTree = "<group>"; };
+		AAD6EE8A21D20D4400E037EE /* Anaganaganaga.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Anaganaganaga.mp3; sourceTree = "<group>"; };
+		AAD6EE8B21D20D4500E037EE /* Peniviti.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Peniviti.mp3; sourceTree = "<group>"; };
+		AAD6EE8C21D20D4500E037EE /* Reddamma Thalli.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Reddamma Thalli.mp3"; sourceTree = "<group>"; };
+		AAD6EE9421D20FD200E037EE /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		AAD6EE9721D233DF00E037EE /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		AAD6EE9821D233DF00E037EE /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		AAD6EE9921D233DF00E037EE /* previous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previous.png; sourceTree = "<group>"; };
+		AAD6EE9A21D233DF00E037EE /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		AAD6EEAF21D2421700E037EE /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAD6EE9521D20FD200E037EE /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +67,7 @@
 			children = (
 				AAD6EE7421D2082400E037EE /* MusicApp */,
 				AAD6EE7321D2082400E037EE /* Products */,
+				AAD6EE9321D20FD200E037EE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,11 +85,31 @@
 				AAD6EE7521D2082400E037EE /* AppDelegate.swift */,
 				AAD6EE7721D2082400E037EE /* ViewController.swift */,
 				AAD6EE7921D2082400E037EE /* Main.storyboard */,
+				AAD6EE8821D20D4400E037EE /* Yeda Poyinado.mp3 */,
+				AAD6EE8A21D20D4400E037EE /* Anaganaganaga.mp3 */,
+				AAD6EE8B21D20D4500E037EE /* Peniviti.mp3 */,
+				AAD6EE8721D20D4300E037EE /* Reddy Ikkada Soodu.mp3 */,
+				AAD6EE8C21D20D4500E037EE /* Reddamma Thalli.mp3 */,
+				AAD6EE8921D20D4400E037EE /* Reddamma Thalli (Female).mp3 */,
+				AAD6EE9821D233DF00E037EE /* next.png */,
+				AAD6EE9721D233DF00E037EE /* play.png */,
+				AAD6EE9921D233DF00E037EE /* previous.png */,
+				AAD46AB921D4C9C2003D751D /* Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg */,
+				AAD6EE9A21D233DF00E037EE /* stop.png */,
+				AAD6EEAF21D2421700E037EE /* pause.png */,
 				AAD6EE7C21D2082600E037EE /* Assets.xcassets */,
 				AAD6EE7E21D2082600E037EE /* LaunchScreen.storyboard */,
 				AAD6EE8121D2082600E037EE /* Info.plist */,
 			);
 			path = MusicApp;
+			sourceTree = "<group>";
+		};
+		AAD6EE9321D20FD200E037EE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AAD6EE9421D20FD200E037EE /* AVFoundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +170,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAD6EE8F21D20D4500E037EE /* Reddamma Thalli (Female).mp3 in Resources */,
 				AAD6EE8021D2082600E037EE /* LaunchScreen.storyboard in Resources */,
+				AAD6EE9D21D233DF00E037EE /* next.png in Resources */,
+				AAD6EE9F21D233DF00E037EE /* stop.png in Resources */,
+				AAD6EE9E21D233DF00E037EE /* previous.png in Resources */,
+				AAD6EE8D21D20D4500E037EE /* Reddy Ikkada Soodu.mp3 in Resources */,
+				AAD6EE9021D20D4500E037EE /* Anaganaganaga.mp3 in Resources */,
 				AAD6EE7D21D2082600E037EE /* Assets.xcassets in Resources */,
+				AAD6EE8E21D20D4500E037EE /* Yeda Poyinado.mp3 in Resources */,
+				AAD46ABA21D4C9C2003D751D /* Aravindha-Sametha-2018-CD-Cover-Front-Poster-Wallpapers.jpg in Resources */,
+				AAD6EE9C21D233DF00E037EE /* play.png in Resources */,
+				AAD6EEB021D2421700E037EE /* pause.png in Resources */,
+				AAD6EE9221D20D4500E037EE /* Reddamma Thalli.mp3 in Resources */,
 				AAD6EE7B21D2082400E037EE /* Main.storyboard in Resources */,
+				AAD6EE9121D20D4500E037EE /* Peniviti.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
